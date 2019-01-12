@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TypeScriptToolsVersion>3.1</TypeScriptToolsVersion>
+    <UserSecretsId>dbd9f425-ea01-4d4d-bf47-3f83d49211ec</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="gulpfile.js" />
+    <Content Include="scss\StyleSheet.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\scripts\store.js" />
+    <None Include="wwwroot\scripts\store.js.map" />
+    <None Include="wwwroot\scripts\subscribe.js" />
+    <None Include="wwwroot\scripts\subscribe.js.map" />
+    <None Include="wwwroot\scripts\underscore-min.js" />
+    <None Include="wwwroot\store.ts" />
+    <None Include="wwwroot\Subscribe.html" />
+    <None Include="wwwroot\subscribe.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+</Project>

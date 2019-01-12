@@ -1,0 +1,30 @@
+{
+  "name": "pastariot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/gapi": "0.0.36",
+    "@types/gapi.auth2": "0.0.48",
+    "@types/gapi.client.sheets": "^4.0.0",
+    "@types/jquery": "^3.3.29",
+    "@types/jquery.blockui": "0.0.28",
+    "@types/jquery.validation": "^1.16.5",
+    "@types/underscore": "^1.8.9",
+    "bootstrap": "^4.2.1",
+    "googleapis": "^27.0.0",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "jquery-validation": "^1.19.0",
+    "material-components-web": "^0.43.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
