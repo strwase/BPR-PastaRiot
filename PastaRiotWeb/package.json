@@ -17,7 +17,7 @@
     "gulp-clean-css": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.2",
-    "jquery-validation": "^1.19.0",
+    "jquery-validation": "^1.19.3",
     "material-components-web": "^0.43.0",
     "underscore": "^1.9.1"
   },
