@@ -19,7 +19,7 @@
     "gulp-sass": "^4.0.2",
     "jquery-validation": "^1.19.0",
     "material-components-web": "^0.43.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {},
   "scripts": {
